@@ -1,0 +1,17 @@
+
+#full-page{
+    text-align: center;
+
+}
+
+.top-buffer{
+    margin:20px;
+}
+
+body{
+    background: url("images/portfolio-pic.jpg");
+    background-size: cover;
+
+}
+
+
